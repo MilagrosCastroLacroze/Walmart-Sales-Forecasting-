@@ -1,11 +1,11 @@
 # Walmart-Sales-Forecasting-
 
-# objective of the project
+# Objective of the project
 
 The goal of this project is to use a Walmart sales forecast database for analysis and reporting.
 
 
-# Contains
+## Contains
 
 This project contains an SQL file with examples of joining tables and other operations in SQL Server.
  
