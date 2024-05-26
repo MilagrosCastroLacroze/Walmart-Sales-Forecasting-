@@ -1,6 +1,6 @@
 # Walmart-Sales-Forecasting-
 
-# Goal
+# objective of the project
 
 The goal of this project is to use a Walmart sales forecast database for analysis and reporting.
 
